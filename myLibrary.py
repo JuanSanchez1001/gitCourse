@@ -8,3 +8,6 @@ def getPermiter(sideB, sideA):
 
 def getAreaCircle(sideA, sideB):
     return sideA + sideB
+
+def getPerimetercirle(sideA, sideB):
+    return (sideA + sideB) * 3.14
