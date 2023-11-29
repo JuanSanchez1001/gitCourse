@@ -1,3 +1,7 @@
 git commit -a -m "mensaje" -> hace commit y add al mismo tiempo
 
 cat .gitignore -> archivos que no quiero guardar
+
+salir de git log con shift q
+
+git log --oneline -> Listar los commits 
