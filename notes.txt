@@ -5,3 +5,9 @@ cat .gitignore -> archivos que no quiero guardar
 salir de git log con shift q
 
 git log --oneline -> Listar los commits 
+
+rm archivo -> borrar del repo y disco
+git rm --cached Archivo -> Borrar y guardar en papelera
+
+git branch crear nueva rama
+git checkput brancg_name -> cambiar de branch
