@@ -1,5 +1,5 @@
-def print_HellloWorld(name):
-    print (name)
+def print_HellloWorld(message):
+    print (message)
 
-name = "Hello world"
-print_HellloWorld(name)
+message = "Hello world"
+print_HellloWorld(message)
