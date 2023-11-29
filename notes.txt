@@ -9,5 +9,12 @@ git log --oneline -> Listar los commits
 rm archivo -> borrar del repo y disco
 git rm --cached Archivo -> Borrar y guardar en papelera
 
-git branch crear nueva rama
+git branch branch_name -> crear nueva rama
 git checkput brancg_name -> cambiar de branch
+
+git merge branch anterior -> para este es mejor regresar al branch master, sirve 
+                            para unir el branch creado con el master
+
+git branch -d branch_name -> Borrar un branch, solo se pueden borrar cunado hay merge
+                             con otros branches cambiar a D para forzar el borrado
+
